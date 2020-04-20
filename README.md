@@ -16,6 +16,12 @@ https://abishekmuthian.com/bigbasket-slot-alert
 1. [Lightflow Pro](https://play.google.com/store/apps/details?id=com.rageconsulting.android.lightflow) or other apps which can read out notifications like Tasker.
 
 
+## Dependencies
+
+1. [chromedp](https://github.com/chromedp/chromedp)
+2. [Go wrapper for the Pushover API](https://github.com/gregdel/pushover
+
+
 ## Usage
 
 Download the correct binary for your OS and Architecture from the [releases](https://github.com/heavyinfo/bigbasket-slot-alert/releases)
@@ -42,6 +48,10 @@ Run the program
 
 [@heavyinfo](https://twitter.com/heavyinfo)
 
+
+## Fair Use
+
+Please do not decrease the timeouts and do not disable automatic closure of the program to avoid stressing the BigBasket's servers.
 
 
 ## License
