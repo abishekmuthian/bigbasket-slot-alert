@@ -19,7 +19,7 @@ https://abishekmuthian.com/bigbasket-slot-alert
 ## Dependencies
 
 1. [chromedp](https://github.com/chromedp/chromedp)
-2. [Go wrapper for the Pushover API](https://github.com/gregdel/pushover
+2. [Go wrapper for the Pushover API](https://github.com/gregdel/pushover)
 
 
 ## Usage
