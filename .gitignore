@@ -1,2 +1,10 @@
 .DS_Store
 .idea
+macos_x86_64
+linux-x86_64
+windows_x86_64
+linux-arm64
+macos_x86_64.zip
+linux-x86_64.zip
+windows_x86_64.zip
+linux-arm64.zip
