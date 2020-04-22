@@ -87,6 +87,9 @@ func main() {
 				log.Println("\n Closing the Ticker")
 				quit <- true
 				close(quit)
+
+				// Exiting the program
+				os.Exit(1)
 			}
 		}
 	}
@@ -94,7 +97,7 @@ func main() {
 
 func LoadandLogin(urlstr string, res *string, ctx context.Context) error {
 
-	log.Println("Login, select location and return to the home page")
+	log.Println("Login, select location and return to the home page within 5 minutes")
 
 	err := chromedp.Run(ctx,
 		chromedp.Navigate(urlstr),
